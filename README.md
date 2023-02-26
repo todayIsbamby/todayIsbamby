@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisachon Yudee</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi 👋, I'm Nisachon Yudee;)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=todayisbamby&label=Profile%20views&color=0e75b6&style=flat" alt="todayisbamby" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=todayisbamby&theme=onedark&margin-w=15&margin-h=15&no-frame=true" alt="todayisbamby" /></a> </p>
