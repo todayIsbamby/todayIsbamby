@@ -23,9 +23,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=todayisbamby&" alt="todayisbamby" /></p>
 <h3>My Stats</h3>
 <br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=todayisbamby&layout=compact&langs_count=8&theme=dracula">
+<p align="start">
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=todayisbamby&layout=compact&langs_count=8&theme=dracula">
 </p>
-<p align="center">
+<p align="start">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=todayisbamby&layout=compact&langs_count=8&theme=dracula"/>
 </p>
