@@ -31,3 +31,5 @@
 <p align="start">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=todayisbamby&layout=compact&langs_count=8&theme=dracula"/>
 </p>
+<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
+![todayisbamby snake gif](https://github.com/todayisbamby/todayisbamby/blob/output/github-contribution-grid-snake.svg) 
