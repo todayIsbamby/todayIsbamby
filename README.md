@@ -24,8 +24,8 @@
 <h3>My Stats</h3>
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=todaylsbamby&layout=compact&langs_count=8&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=todayisbamby&layout=compact&langs_count=8&theme=dracula">
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=todaylsbamby&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=todayisbamby&layout=compact&langs_count=8&theme=dracula"/>
 </p>
