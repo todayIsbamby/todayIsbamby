@@ -9,7 +9,7 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU4MmE1ZWRiMmIyMDVhNjIzODdkMzA2MDg2M2I3ZjFlMmIxZWY3NyZjdD1n/40lkVsLHzQU1cJ862N/giphy.gif" width="250px">
 <h3 align="center">A passionate Data Analytics or ETC.</h3>
 
-- 📫 How to reach me **nisacholyudee514@gmail.com**
+- 📫 How to reach me **nisacholyudee@gmail.com**
 
 - 🌱 I’m currently learning **Python and Image processing etc.**
 
