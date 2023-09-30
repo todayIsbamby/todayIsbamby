@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F12A4&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+todayisbamby" alt="Typing SVG" /></a></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=todayisbamby&label=Profile%20views&color=#FFFFFF&style=flat" alt="todayisbamby" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=todayisbamby&label=Profile%20views&color=FFFFFF&style=flat" alt="todayisbamby" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=todayisbamby&theme=onedark&margin-w=15&margin-h=15&no-frame=true" alt="todayisbamby" /></a> </p>
 
