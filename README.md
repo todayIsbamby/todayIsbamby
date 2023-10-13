@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU4MmE1ZWRiMmIyMDVhNjIzODdkMzA2MDg2M2I3ZjFlMmIxZWY3NyZjdD1n/40lkVsLHzQU1cJ862N/giphy.gif" width="250px">
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU4MmE1ZWRiMmIyMDVhNjIzODdkMzA2MDg2M2I3ZjFlMmIxZWY3NyZjdD1n/40lkVsLHzQU1cJ862N/giphy.gif" width="250px">
 <h3 align="center">A passionate Data Sciencentist or ETC.</h3>
 
 - 📫 How to reach me **nisacholyudee@gmail.com**
