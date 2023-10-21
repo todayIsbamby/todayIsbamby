@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B589D6&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+todayisbamby" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CF9FFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+todayisbamby" alt="Typing SVG" /></a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=todayisbamby&label=Profile%20views&color=4F12A4&style=flat" alt="todayisbamby" /></p>
 <div align="center" padding-bottom=30px>
@@ -18,14 +18,15 @@
 
 - ⚡ Fun fact **I think It's okay to not be okay.**
 
-<h2 align="left">Connect with me:</h2>
+<h2 style="color:#CF9FFF; text-align: left;">Connect with me:</h2>
 <p align="left">
+  <a href="https://huggingface.co/todayisbamby" target="blank"><img align="center" src="https://cdn.pic.in.th/file/picinth/hf-logo.png" height="35" width="35" /></a>
   <a href="https://www.linkedin.com/feed/ " target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="todayis_bamby" height="30" width="30" /></a>
    <a href="https://leetcode.com/nisachon/ " target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="todayis_bamby" height="30" width="30" /></a>
 
 </p>
 
-<h2 align="center">MY SKILL</h2>
+<h2 align="center" >MY SKILL</h2>
 <h4 align="center">PROGRAMMING LANGUAGES</h4>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
