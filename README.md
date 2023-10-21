@@ -73,8 +73,8 @@
 <h4 align ="center">📊 MY STATS</h4>
 <br>
 <p align="center">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=todayisbamby&layout=compact&langs_count=8&theme=dracula">
-   <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=todayisbamby&layout=compact&langs_count=8&theme=dracula"/>****
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=todayisbamby&layout=compact&langs_count=8&theme=tokyonight">
+   <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=todayisbamby&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 
